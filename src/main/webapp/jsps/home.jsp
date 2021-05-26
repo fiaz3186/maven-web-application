@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>fayaz techno- Home Page</title>
+<title>fayaz techno solutions- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Fayaz Software Solutions. </h1>
+<h1 align="center">Welcome to Fayaz Software Solutions limited </h1>
 <h1 align="center">fayaz first jenkin freestyle CICD Pipeline</h1>
 <hr>
 <div style="text-align: center;">
