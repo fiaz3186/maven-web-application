@@ -98,7 +98,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Fayaz Releases Nexus Repository</name>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://3.239.121.118:8081/repository/wallmart-releases/</url>
 	    </repository>
 	    
